@@ -1,4 +1,2 @@
-a =0b11100
-print(a)
-print(~a)
-print(a>>2)
+s = (~(~22))
+print(s)
